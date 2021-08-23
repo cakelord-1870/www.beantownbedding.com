@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beantownbedding.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beantownbedding.com/collections/wholesale-orders.atom"/>
+  <title>Beantown Bedding</title>
+  <updated>2021-01-07T19:12:55-05:00</updated>
+  <author>
+    <name>Beantown Bedding</name>
+  </author>
+  <entry>
+    <id>https://www.beantownbedding.com/products/5970194104480</id>
+    <published>2021-01-07T19:12:55-05:00</published>
+    <updated>2021-01-07T19:12:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/flat-sheets-case-of-50"/>
+    <title>Flat Sheets, XL Twin Size (Case of 50)</title>
+    <s:type>Sheets</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/NewFlatSheets.png?v=1610056573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Sheets<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basics</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/5970194104480</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>852203004251</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/4451995549768</id>
+    <published>2021-01-07T15:28:22-05:00</published>
+    <updated>2021-01-07T15:28:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/sustainability-room-cards"/>
+    <title>Sustainability Room Cards</title>
+    <s:type></s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/room_card_pic.jpg?v=1591947145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Room cards to inform your guests:</p>
+<p><em>"These innovative sheets are made with premium plant fibers, are chemical-free and can be composted instead of laundered--saving water, energy and carbon emissions. Together with our vendor, Beantown Bedding, we are proud to offer brand new "just for you" Laundry-Free Linens during your stay with us. Eco-friendly is the new luxury."</em></p>
+<p> </p>
+<p>Pack of 20 cards (5" x 3")</p>
+<p> </p>
+<p>FREE SHIPPING. Ships separate from other items.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/4451995549768</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/147937722392</id>
+    <published>2021-01-04T20:08:05-05:00</published>
+    <updated>2021-01-04T20:08:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/business-sample-requests"/>
+    <title>Sample Requests (Businesses Only)</title>
+    <s:type></s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/Beantown2.jpg?v=1599880373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FOR BUSINESSES <strong>ONLY</strong>.   Must include Company Name. <br></p>
+<p><em><span style="color: #808080;">Use drop down menu to select pillowcase or towel. <br></span></em></p>
+<p> </p>
+<p><em><span style="color: #808080;">Try our other linens by purchasing one at a time from our <span style="color: #5da73c;"><a style="color: #5da73c;" href="https://www.beantownbedding.com/collections/laundry-free-linens-collection/retail" target="_blank">Retail Collection</a></span> (available for selected items). </span></em></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/147937722392</id>
+      <title>Free Pillowcase (LIMIT ONE)</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>S852203004015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/147937722392</id>
+      <title>Free Healthcare Towel (LIMIT ONE)</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>S4018-50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/5636820992160</id>
+    <published>2020-12-23T15:39:02-05:00</published>
+    <updated>2020-12-23T15:39:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/eco-disposable-blanket-case"/>
+    <title>Eco Disposable Blankets (Case of 20)</title>
+    <s:type>Sheets</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/compostableblanket2_cd71dbaa-9e32-483e-bdd7-07b4226b8f07.jpg?v=1628699930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Sheets<br>
+        <strong>Price: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New!  Beantown Bedding's first compostable and biodegradable disposable blanket. 100% biobased, chemical-free.  <br></p>
+<p> </p>
+<span style="color: #5da73c;"><strong>Beantown Basics:</strong></span> Laundry-free like our original linens, but lighter on the budget and designed for shorter usage (&lt; 1 week). <br>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basics</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/5636820992160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">259.00</s:price>
+      <s:sku>852203004289</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/4437866709064</id>
+    <published>2020-12-23T15:35:38-05:00</published>
+    <updated>2020-12-23T15:35:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/xxx-for-beantown-bedding"/>
+    <title>Eco Disposable Towels (Case of 50)</title>
+    <s:type>Sheets</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/Towelmain_1.jpg?v=1600719777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Sheets<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basics</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/4437866709064</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>852203004018</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/9549048142</id>
+    <published>2020-12-23T15:34:20-05:00</published>
+    <updated>2020-12-23T15:34:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/laundry-free-linens-case"/>
+    <title>Eco Disposable Sheet Sets (Case of 20)</title>
+    <s:type>Sheets</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/sustainable_linens_eucalyptus.jpg?v=1614829720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Sheets<br>
+        <strong>Price: </strong>
+            150.00 - 320.00
+            <a href="https://www.beantownbedding.com/products/laundry-free-linens-case">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Tencel</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9549048142</id>
+      <title>XL Twin ($9.95 per set)</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>852203004206</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9549048142</id>
+      <title>Twin ($9.95 per set)</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>852203004190</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9549048142</id>
+      <title>Cot/Stretcher ($7.50 per set)</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>852203004183</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9549048142</id>
+      <title>Full ($12.95 per set)</title>
+      <s:price currency="USD">259.00</s:price>
+      <s:sku>852203004213</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9549048142</id>
+      <title>Queen ($12.95 per set)</title>
+      <s:price currency="USD">259.00</s:price>
+      <s:sku>852203004220</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9549048142</id>
+      <title>King ($16 per set)</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>852203004237</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/5636779212960</id>
+    <published>2020-12-23T15:34:16-05:00</published>
+    <updated>2020-12-23T15:34:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/copy-of-eco-disposable-pillowcases"/>
+    <title>Eco Disposable Pillowcases (Case of 50)</title>
+    <s:type>Sheets</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/pillowcasesproductphoto_362f807a-9866-4a5b-8ed7-b18c23f613c8.jpg?v=1600121428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Sheets<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Each case contains 50 standard disposable pillowcases (28 x 20 in), individually wrapped.<br><br></p>
+<ul></ul>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Tencel</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/5636779212960</id>
+      <title>Pillowcases (Case of 50)</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>I4015-50</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/5624871125152</id>
+    <published>2020-12-23T15:34:16-05:00</published>
+    <updated>2020-12-23T15:34:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/snugfit-sheet-sets-and-pillowcases-by-the-case"/>
+    <title>Snug Fit Sheet Sets (Case of 20)</title>
+    <s:type>Sheets</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/SnugFit1zoom1280x850.jpg?v=1600719056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Sheets<br>
+        <strong>Price: </strong>
+            205.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New! Snug Fit sheets are Laundry-Free Linens® with reinforced elastic corners on the fitted sheet to securely stay on mattresses. Designed especially for mattresses with slippery covers or bed bug encasements.</p>
+<br>
+<p>Case of 20 sets. Each sheet set contains one fitted sheet with reinforced elastic corners, one flat sheet, and one pillowcase. Currently available in XL Twin size only.</p>
+<br>
+<p>XL Twin Sheet Dimensions:  Flat: 62 x 95 in, Fitted: 39 x 80 in + 8 in drop, Pillowcase: 28 x 20 in. <br><br>Fits mattresses 39 x 80 in, 8 in deep.</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Tencel</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/5624871125152</id>
+      <title>XL Twin ($10.25 per set)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>852203004268</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

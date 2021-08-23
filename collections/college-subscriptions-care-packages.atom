@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beantownbedding.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beantownbedding.com/collections/college-subscriptions-care-packages.atom"/>
+  <title>Beantown Bedding</title>
+  <updated>2021-08-05T19:37:14-04:00</updated>
+  <author>
+    <name>Beantown Bedding</name>
+  </author>
+  <entry>
+    <id>https://www.beantownbedding.com/products/6870038053024</id>
+    <published>2021-08-05T19:37:14-04:00</published>
+    <updated>2021-08-05T19:37:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/blanket"/>
+    <title>Eco Disposable Blankets</title>
+    <s:type></s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/biodegradableblanket1_03407e01-4d92-4ca0-b4c3-7e4b21404f52.jpg?v=1628205251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">New! Beantown Bedding's first compostable and biodegradable disposable blanket. 100% biobased, chemical-free.  70 x 90 in. <span data-mce-fragment="1" style="color: #5da73c;" data-mce-style="color: #5da73c;"><strong data-mce-fragment="1"></strong></span><em>Free Shipping</em> <br></p>
+<p data-mce-fragment="1"> </p>
+<p><span data-mce-fragment="1" style="color: #5da73c;" data-mce-style="color: #5da73c;"><strong data-mce-fragment="1">Beantown Basics:</strong></span> Laundry-free like our original linens, but lighter on the budget and designed for shorter usage (&lt; 1 week).<br><br data-mce-fragment="1"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basics</s:tag>
+    <s:tag>Retail</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/6870038053024</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>852203004282</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/4507193933896</id>
+    <published>2020-12-23T15:50:13-05:00</published>
+    <updated>2020-12-23T15:50:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/gift-card"/>
+    <title>Gift Cards</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/pillowonstool.jpg?v=1599610293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.beantownbedding.com/products/gift-card">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Shopping for someone, but unsure of their bed size?</strong> Beantown Bedding gift cards are a great idea for grads, travelers, and college care packages. Gift cards are delivered by email and can be redeemed at checkout. No additional processing fees. Good for any purchase at beantownbedding.com.
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Retail</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/4507193933896</id>
+      <title>$10.00</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>GC10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/4507193933896</id>
+      <title>$15.00</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>GC15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/4507193933896</id>
+      <title>$20.00</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>GC20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/4507193933896</id>
+      <title>$25.00</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GC25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/4507193933896</id>
+      <title>$50.00</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>GC50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/4507193933896</id>
+      <title>$100.00</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>GC100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/5609028354208</id>
+    <published>2020-12-23T15:32:47-05:00</published>
+    <updated>2020-12-23T15:32:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/eco-disposable-pillowcases"/>
+    <title>Eco Disposable Pillowcases (Pack of 2)</title>
+    <s:type>Sheets</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/Beantown2_0485cdb5-99db-4dbb-9a4c-8ddd06feb765.jpg?v=1609297481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Sheets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Retail</s:tag>
+    <s:tag>Tencel</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/5609028354208</id>
+      <title>Pillowcases (Set of 2)</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>852203004015</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.beantownbedding.com/products/9178999694</id>
+    <published>2020-12-23T15:32:46-05:00</published>
+    <updated>2020-12-23T15:32:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beantownbedding.com/products/laundry-free-linens"/>
+    <title>Eco Disposable Sheet Sets</title>
+    <s:type>Sheets</s:type>
+    <s:vendor>Beantown Bedding</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1634/4037/products/Sheets-3.jpg?v=1626724285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beantown Bedding<br>
+        <strong>Type: </strong>Sheets<br>
+        <strong>Price: </strong>
+            19.99 - 34.99
+            <a href="https://www.beantownbedding.com/products/laundry-free-linens">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #808080;"><span style="color: #000000;"><strong>Free shipping.</strong>  </span></span><em><span style="color: #808080;">Back in stock, including King size!</span></em><span style="color: #808080;"></span></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Retail</s:tag>
+    <s:tag>Tencel</s:tag>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9178999694</id>
+      <title>XL Twin (BEST SELLER)</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>852203004008</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9178999694</id>
+      <title>Twin</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>852203004022</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9178999694</id>
+      <title>Full</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>852203004039</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9178999694</id>
+      <title>Queen</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>852203004046</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9178999694</id>
+      <title>Cot</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>852203004053</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.beantownbedding.com/products/9178999694</id>
+      <title>King</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>852203004145</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
